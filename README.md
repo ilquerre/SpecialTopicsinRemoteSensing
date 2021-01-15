@@ -22,4 +22,7 @@ Formula for NDWI:
 ![NIR Band](https://github.com/ilquerre/SpecialTopicsinRemoteSensing/blob/main/Screenshots/NIR.PNG?raw=true)
 ![NDWI Output Image](https://github.com/ilquerre/SpecialTopicsinRemoteSensing/blob/main/Screenshots/NDWI.PNG?raw=true)
 
+This project and documents were prepared by Ilker Karakap.
+010160619
 ![ITU Logo](https://www.iotlinefair.com/wp-content/uploads/2015/04/itu-logo.jpg)
+
