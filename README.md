@@ -17,4 +17,6 @@ Formula for NDWI:
 - **rasterio** to open rasters and write rasters,
 - **matplotlib** to plot outputs.
 
+##Inputs and Output
+
 ![ITU Logo](https://www.iotlinefair.com/wp-content/uploads/2015/04/itu-logo.jpg)
