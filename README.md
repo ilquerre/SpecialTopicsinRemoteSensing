@@ -18,7 +18,8 @@ Formula for NDWI:
 - **matplotlib** to plot outputs.
 
 ## Inputs and Output
-![Green Band](Screenshots/Green.png?raw=true "Title")
-
+![Green Band](https://github.com/ilquerre/SpecialTopicsinRemoteSensing/blob/main/Screenshots/Green.PNG?raw=true)
+![NIR Band](https://github.com/ilquerre/SpecialTopicsinRemoteSensing/blob/main/Screenshots/NIR.PNG?raw=true)
+![NDWI Output Image](https://github.com/ilquerre/SpecialTopicsinRemoteSensing/blob/main/Screenshots/NDWI.PNG?raw=true)
 
 ![ITU Logo](https://www.iotlinefair.com/wp-content/uploads/2015/04/itu-logo.jpg)
